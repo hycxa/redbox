@@ -1,0 +1,23 @@
+{
+  "name": "redbox",
+  "version": "1.0.0",
+  "author": "senli",
+  "main": "app/index.html",
+  "window": {
+    "icon": "",
+    "toolbar": true,
+    "frame": true,
+    "position": "center",
+    "resizable": true,
+    "width": 800,
+    "height": 600
+  },
+  "webkit": {
+    "plugin": true
+  },
+  "repository": {},
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "node-webkit-builder": "*"
+  }
+}
