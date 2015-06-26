@@ -14,4 +14,6 @@
 
 ## 项目部署
 
-nwbuild -p osx64
+node build //即可
+
+项目部署时不会加入scss文件夹的
