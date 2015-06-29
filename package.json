@@ -17,7 +17,8 @@
   },
   "repository": {},
   "dependencies": {
-    "underscore": "^1.8.3",
-    "node-webkit-builder": "*"
+    "etpl": "^3.0.1",
+    "node-webkit-builder": "*",
+    "underscore": "^1.8.3"
   }
 }
